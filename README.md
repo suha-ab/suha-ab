@@ -6,6 +6,8 @@ I'm currently pursuing a Bachelor's in Software Engineering.
 🗺️ In the future, I see myself working in video game companies or tackling problems in cybersecurity.
 
 📚 In my free time, I enjoy playing my lyre, creating pixel embroidery, tackling Hack The Box problems, or creating 3D models!
+
+⏲️Current Obsession: **Cybersecurity**
 <!--
 **suha-ab/suha-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
