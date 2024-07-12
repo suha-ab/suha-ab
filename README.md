@@ -9,7 +9,8 @@ I'm currently pursuing a Bachelor's in Software Engineering.
 
 ⏲️Current Obsession: **Cybersecurity**
 
-![Suha's GitHub stats](https://github-readme-stats.vercel.app/api?username=suha-ab&show_icons=true&theme=transparent)
+![Suha's GitHub stats](https://github-readme-stats.vercel.app/api?username=suha-ab&show_icons=true&theme=transparent) <br>
+[![](https://visitcount.itsvg.in/api?id=suha-ab&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **suha-ab/suha-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
